@@ -1,5 +1,6 @@
 name:
   .android: 
+  .ansiweatherrc: 󰅟
   .ash: 
   .ash_history: 
   .asoundrc: 
@@ -16,8 +17,11 @@ name:
   .ccls-cache: 󰃨
   .clang-format: 
   .config: 
+  .cpan: 
   .cshrc: 󱆃
+  .curseforge: 󰍳
   .dbus: 
+  .dmrc: 
   .doom.d: 
   .ds_store: 
   .editorconfig: 
@@ -30,6 +34,7 @@ name:
   .eslintrc.yml: 
   .fastboot: 
   .fennelrc: 
+  .ftb: 󰍳
   .git-credentials: 
   .git: 
   .gitattributes: 
@@ -47,10 +52,12 @@ name:
   .java: 
   .jupyter: 
   .kshrc: 
+  .lastupdate: 󰋚
   .lynxrc: 
   .mailcap: 󰇰
   .mime.types: 󰙅
-  .mozilla: 
+  .minecraft: 󰍳
+  .mozilla: 󰈹
   .mutt: 
   .muttrc: 
   .mypy_cache: 󰃨
@@ -60,17 +67,25 @@ name:
   .node-gyp: 
   .node_repl_history: 
   .npm: 
+  .nvidia-settings-rc: 
+  .ocamlinit: 
+  .oh-my-zsh: 
+  .opam: 
   .pki: 
   .profile: 
+  .pulse-cookie: 󰆘
   .pypirc: 
   .python_history: 
   .release.toml: 
   .rustup: 
   .rvm: 
+  .screenlayout: 󰍹
+  .shell.pre-oh-my-zsh: 󰋚
   .shellcheckrc: 
   .spacemacs: 
   .sqlite_history: 
   .ssh: 󰢬
+  .steam: 󰓓
   .tmux: 
   .tox: 
   .trash: 
@@ -81,6 +96,7 @@ name:
   .w3m: 
   .wakatime: 󱦺
   .wgetrc: 
+  .wget-hsts: 󰋚
   .xauthority: 
   .Xauthority: 
   .xinitrc: 
@@ -89,6 +105,8 @@ name:
   .xprofile: 
   .Xprofile: 
   .xresources: 
+  .xscreensaver: 󰍹
+  .xsession-errors: 
   .yarnrc: 
   .zcompdump: 
   .zlogin: 󱆃
@@ -97,14 +115,19 @@ name:
   .zshrc: 󱆃
   .zsh_history: 󱆃
   a.out: 
+  autorandr: 󰍹
+  ai: 󰚩
   api: 󰒍
   assets: 
   authorized_keys: 
   backups: 󰁯
+  bash: 󱆃
   bin: 
   bspwmrc: 
   build.ninja: 
   build: 
+  c3c: 
+  c: 
   cache: 󰃨
   cargo.lock: 
   cargo.toml: 
@@ -120,6 +143,7 @@ name:
   content: 
   contributing: 
   copyright: 
+  cpp: 
   cron.d: 
   cron.daily: 
   cron.deny: 
@@ -134,6 +158,7 @@ name:
   css: 
   custom.el: 
   desktop: 
+  dev: 󰴉
   dist: 
   doc: 
   docker-compose.yml: 
@@ -145,7 +170,11 @@ name:
   favicon.ico: 
   favicons: 
   fstab: 
+  gh: 󰊤
+  github: 
   gitignore_global: 
+  go: 
+  godot: 
   go.mod: 
   go.sum: 
   go.work: 
@@ -175,6 +204,7 @@ name:
   include: 
   init.el: 
   inputrc: 
+  java: 
   jenkinsfile: 
   js: 
   jule.mod: 
@@ -182,7 +212,9 @@ name:
   kconfig: 
   kdeglobals: 
   kdenliverc: 
+  kitty: 󰄛
   known_hosts: 
+  lazygit: 󰒲
   lib32: 
   lib64: 
   lib: 
@@ -193,6 +225,8 @@ name:
   licenses: 
   localized: 
   lsb-release: 
+  lsd: 
+  lua: 󰢱
   magic: 
   mail: 󰇰
   maintainers: 
@@ -206,14 +240,19 @@ name:
   metadata: 
   mime.types: 󰙅
   module.symvers: 
+  mpv: 󱀞
   music: 󱍙
   muttrc: 
+  nano: 
+  nasm: 
   neomuttrc: 
   netlify.toml: 
   node_modules: 
   npmignore: 
   nvim: 
   obj: 
+  ocaml: 
+  odin: 
   os-release: 
   package-lock.json: 
   package.json: 
@@ -225,6 +264,8 @@ name:
   portage: 
   profile: 
   public: 
+  pulse: 󱀞
+  python: 
   pyproject.toml: 
   rc.lua: 
   readme: 
@@ -233,6 +274,7 @@ name:
   root: 󰉐
   rubydoc: 
   runtime.txt: 󰌠
+  rust: 
   rustfmt.toml: 
   sass: 
   sbin: 
@@ -243,8 +285,10 @@ name:
   share: 
   shells: 
   src: 󱧼
+  starship: 
   static: 
   std: 󰅱
+  steam: 󰓓
   styles: 
   subgid: 
   subuid: 
@@ -254,6 +298,7 @@ name:
   tests: 󰙨
   tigrc: 
   timezone: 
+  tmux: 
   tox.ini: 
   ts: 
   unlicense: 
@@ -265,14 +310,18 @@ name:
   videos: 
   vim: 
   vimrc: 
+  wal: 󰸉
   webpack.config.js: 󰜫
   wgetrc: 
+  xarchiver: 
   xbps-src: 
   xbps.d: 
   xmonad.hs: 
   xorg.conf.d: 
   yarn.lock: 
   zathurarc: 
+  zig: 
+  zsh: 󱆃
   __pycache__: 
 extension:
   1: 
@@ -434,6 +483,7 @@ extension:
   license: 
   lisp: 󰅲
   list: 
+  locale: 
   localized: 
   lock: 
   log: 
