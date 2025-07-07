@@ -69,7 +69,7 @@ name:
   .npm: 
   .nvidia-settings-rc: 
   .ocamlinit: 
-  .oh-my-zsh: 
+  .oh-my-zsh: 󱆃
   .opam: 
   .pki: 
   .profile: 
@@ -89,9 +89,9 @@ name:
   .tmux: 
   .tox: 
   .trash: 
-  .vim: 
-  .viminfo: 
-  .vimrc: 
+  .vim: 
+  .viminfo: 
+  .vimrc: 
   .vscode: 
   .w3m: 
   .wakatime: 󱦺
@@ -117,12 +117,16 @@ name:
   a.out: 
   autorandr: 󰍹
   ai: 󰚩
+  alarms: 󰀠
+  android: 
   api: 󰒍
   assets: 
+  audiobooks: 
   authorized_keys: 
   backups: 󰁯
   bash: 󱆃
   bin: 
+  books: 
   bspwmrc: 
   build.ninja: 
   build: 
@@ -157,6 +161,7 @@ name:
   csh.logout: 󱆃
   css: 
   custom.el: 
+  dcim: 󰉏
   desktop: 
   dev: 󰴉
   dist: 
@@ -165,6 +170,8 @@ name:
   dockerfile: 
   documents: 
   downloads: 󰉍
+  download: 󰉍
+  edgevoicerecorder: 󰑋
   environment: 
   etc: 
   favicon.ico: 
@@ -224,6 +231,7 @@ name:
   license: 
   licenses: 
   localized: 
+  log: 󱂅
   lsb-release: 
   lsd: 
   lua: 󰢱
@@ -240,6 +248,7 @@ name:
   metadata: 
   mime.types: 󰙅
   module.symvers: 
+  movies: 󰿎
   mpv: 󱀞
   music: 󱍙
   muttrc: 
@@ -248,8 +257,9 @@ name:
   neomuttrc: 
   netlify.toml: 
   node_modules: 
+  notifications: 󰎟
   npmignore: 
-  nvim: 
+  nvim: 
   obj: 
   ocaml: 
   odin: 
@@ -261,6 +271,8 @@ name:
   passwd: 
   pictures: 󰉏
   pkgbuild: 
+  pocketbook: 
+  podcasts: 
   portage: 
   profile: 
   public: 
@@ -269,7 +281,9 @@ name:
   pyproject.toml: 
   rc.lua: 
   readme: 
+  recordings: 󰑋
   requirements.txt: 󰌠
+  ringtones: 󰂟
   robots.txt: 󰚩
   root: 󰉐
   rubydoc: 
@@ -277,6 +291,7 @@ name:
   rust: 
   rustfmt.toml: 
   sass: 
+  samsung: 
   sbin: 
   scripts: 
   scss: 
@@ -289,11 +304,13 @@ name:
   static: 
   std: 󰅱
   steam: 󰓓
+  storage: 
   styles: 
   subgid: 
   subuid: 
   sudoers: 
   sxhkdrc: 
+  tasker: 
   template: 
   tests: 󰙨
   tigrc: 
@@ -321,6 +338,7 @@ name:
   yarn.lock: 
   zathurarc: 
   zig: 
+  zipper: 󰀼
   zsh: 󱆃
   __pycache__: 
 extension:
@@ -634,7 +652,7 @@ extension:
   unity: 
   unity32: 
   video: 
-  vim: 
+  vim: 
   vlc: 󰐑
   vtt: 󰅞
   vue: 󰡄
